@@ -34,7 +34,7 @@ By successfully completing the "Hotel Reservation Website" project, we not only 
 
 3. Import the project into your Java EE IDE.
 
-4. Import the provided [database script](https://github.com/Jacoub-Bakir/JEE-Marriott-Hotel/Mariott_Hotel_Script.sql) into your MySQL database management system..
+4. Import the provided [database script](Mariott_Hotel_Script.sql) into your MySQL database management system..
 
 5. Configure the database connection settings in the project to match your MySQL server configuration.
 
